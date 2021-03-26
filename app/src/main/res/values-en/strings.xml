@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altura_triangulo">Height</string>
+    <string name="base_trianfulo">Base</string>
+    <string name="calculo_area">Calculate Area</string>
+    <string name="area_del_triangulo">Triangle Area</string>
+    <string name="titulo">Enter the base and height of a triangle to calculate the area</string>
+</resources>

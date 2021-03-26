@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altura_triangulo">Höhe</string>
+    <string name="area_del_triangulo">Dreiecksfläche</string>
+
+    <string name="base_trianfulo">der Grundstock</string>
+    <string name="calculo_area">Fläche berechnen</string>
+    <string name="titulo">Geben Sie die Basis und Höhe eines Dreiecks ein, um die Fläche zu berechnen</string>
+</resources>
