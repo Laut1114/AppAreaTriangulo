@@ -2,7 +2,10 @@
     <string name="app_name" translatable="false">Area de un triangulo</string>
     <string name="altura_triangulo">Altura</string>
     <string name="base_trianfulo">Base</string>
-    <string name="calculo_area">Calcular el area</string>
+    <string name="calculo_area">Calcular</string>
+    <string name="volver" translatable="false">Volver</string>
     <string name="area_del_triangulo">Area del triangulo</string>
     <string name="titulo">Ingresar la base y altura de un triangulo para calcular el area</string>
+    <string name="iconapp" translatable="false">iconApp</string>
+    <string name="titulo_toolbar" translatable="false">Shrine</string>
 </resources>
