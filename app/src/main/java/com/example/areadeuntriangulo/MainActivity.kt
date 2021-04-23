@@ -41,8 +41,7 @@ class MainActivity : AppCompatActivity() {
         botonVolver.visibility = View.VISIBLE
     }
 
-    fun volver() {
-
+    private fun volver() {
         altura.text.clear()
         base.text.clear()
 
