@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         tituloResultado.visibility = View.VISIBLE
         cardResultado.visibility = View.VISIBLE
-        resultadoFinal.text = "$calculo M2"
+        resultadoFinal.text = "$calculo Cm2"
 
         boton.visibility = View.INVISIBLE
         botonVolver.visibility = View.VISIBLE
